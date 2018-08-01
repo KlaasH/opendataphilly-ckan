@@ -38,6 +38,7 @@
       - python-pycurl
       - python-software-properties
       - python-dev
+      - redis-server
       - screen
       - solr-jetty
       - sudo
